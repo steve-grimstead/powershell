@@ -4,7 +4,7 @@
   Version: 1.0  
   Purpose: Removes basic Microsoft bloatware.    
 
-  Link: https://raw.githubusercontent.com/Prohtius/PowerShell/refs/heads/main/active%20directory/add_1st_domain_controller..ps1
+  Link: https://raw.githubusercontent.com/steve-grimstead/powershell/refs/heads/main/maintenance/remove_bloatware.ps1
 #>
 
 $bloatapps = @(
