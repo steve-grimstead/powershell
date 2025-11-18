@@ -1,3 +1,4 @@
+```powershell
 Net stop w32time
 Net stop w32time
 W32tm  /unregister
@@ -7,3 +8,4 @@ Net start w32time
 w32tm /resync /nowait
 w32tm /query /status
 w32tm /query /peers
+```
